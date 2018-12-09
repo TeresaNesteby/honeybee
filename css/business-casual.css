@@ -6,8 +6,8 @@
 
 body {
   font-family: 'Lora';
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 23, 15, 0.65))), url("../img/bg.jpg");
-  background: linear-gradient(rgba(47, 23, 15, 0.65)), url("../img/bg.jpg");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 23, 15, 0.65))), url("../img/background-board-brown-326311.jpg");
+  background: linear-gradient(rgba(47, 23, 15, 0.65)), url("../img/background-board-brown326311.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -81,7 +81,8 @@ p {
 }
 
 #mainNav .navbar-brand {
-  color: #e6a756;
+  color: #22264b
+;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -90,7 +91,8 @@ p {
 }
 
 #mainNav .navbar-nav .nav-item.active .nav-link {
-  color: #e6a756;
+  color: #22264b
+;
 }
 
 @media (min-width: 992px) {
@@ -101,7 +103,8 @@ p {
     color: rgba(255, 255, 255, 0.4);
   }
   #mainNav .navbar-nav .nav-item.active .nav-link:hover {
-    color: #e6a756;
+    color: #22264b
+;
   }
 }
 
@@ -211,7 +214,8 @@ p {
 
 .list-hours .list-hours-item.today {
   font-weight: bold;
-  color: #e6a756;
+  color: #22264b
+;
 }
 
 @media (min-width: 992px) {
@@ -230,11 +234,13 @@ p {
 }
 
 .text-primary {
-  color: #e6a756 !important;
+  color: #22264b
+ !important;
 }
 
 .bg-primary {
-  background-color: #e6a756 !important;
+  background-color: #22264b
+ !important;
 }
 
 .btn {
@@ -243,8 +249,10 @@ p {
 }
 
 .btn-primary {
-  background-color: #e6a756;
-  border-color: #e6a756;
+  background-color: #22264b
+;
+  border-color: #22264b
+;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
